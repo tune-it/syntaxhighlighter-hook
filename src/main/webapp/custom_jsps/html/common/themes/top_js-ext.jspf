@@ -1,0 +1,52 @@
+<%--
+/**
+ * Copyright (c) 2000-2013 Liferay, Inc. All rights reserved.
+ *
+ * This library is free software; you can redistribute it and/or modify it under
+ * the terms of the GNU Lesser General Public License as published by the Free
+ * Software Foundation; either version 2.1 of the License, or (at your option)
+ * any later version.
+ *
+ * This library is distributed in the hope that it will be useful, but WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ * FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more
+ * details.
+ */
+--%>
+
+<link rel="stylesheet" href="/html/js/syntaxhighlighter/styles/shCore.css"/>
+<link rel="stylesheet" href="/html/js/syntaxhighlighter/styles/shThemeDefault.css"/>
+
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shCore.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushAppleScript.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushAS3.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushBash.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushColdFusion.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushCss.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushCSharp.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushCpp.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushDelphi.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushDiff.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushErlang.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushGroovy.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushJava.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushJavaFX.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushJScript.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushPerl.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushPhp.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushPlain.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushPowerShell.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushPython.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushRuby.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushSass.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushScala.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushSql.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushVb.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/scripts/shBrushXml.js"></script>
+<script type="text/javascript" src="/html/js/syntaxhighlighter/customConfig.js"></script>
+
+<style type="text/css">
+    .aui .syntaxhighlighter .container::before, .aui .syntaxhighlighter .container::after {
+        content: none;
+    }
+</style>
