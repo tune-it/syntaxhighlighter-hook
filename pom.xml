@@ -6,7 +6,7 @@
     <artifactId>syntaxhighlighter-hook</artifactId>
     <packaging>war</packaging>
     <name>syntaxhighlighter-hook</name>
-    <version>6.2.2.0</version>
+    <version>6.2.2.1</version>
     <build>
         <plugins>
             <plugin>
